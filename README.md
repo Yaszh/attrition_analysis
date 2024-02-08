@@ -10,11 +10,11 @@ Conducting a comprehensive Attrition Analysis for an organization to understand 
 
 ## Steps Taken
 
-1. **Data Exploration:**
+ **Data Exploration:**
    - Analyzed total attrition based on various factors.
    - Investigated education, age group, gender, performance rating, department, and distance influences.
 
-2. **Insights and Recommendations:**
+ **Insights and Recommendations:**
    - Derived actionable insights to address attrition challenges.
    - Proposed strategies to retain key employee segments.
 
@@ -22,41 +22,58 @@ Conducting a comprehensive Attrition Analysis for an organization to understand 
 
 ### Major Questions Answered:
 
-1. **Education-Based Attrition:**
+ **Education-Based Attrition:**
+
+   ![image](https://github.com/Yaszh/attrition_analysis/assets/71252244/02e45573-6731-4d66-832f-4b9e2bc96c8d)
    - Bachelor's degree holders exhibit maximum attrition.
    - Suggestion: Offer educational assistance to high-performing employees.
 
-2. **Age Group and Gender Impact:**
+ **Age Group and Gender Impact:**
+
+![image](https://github.com/Yaszh/attrition_analysis/assets/71252244/5d7c27f8-7782-4e73-a364-490f6e8984be)
    - Young males contribute significantly to attrition.
    - Strategy: Explore initiatives to retain young talents.
 
-3. **Performance Rating Impact:**
+ **Performance Rating Impact:**
+
+ ![image](https://github.com/Yaszh/attrition_analysis/assets/71252244/576d466c-f3bf-4554-bf3e-617376c36cd2)
    - Higher performers have increased attrition.
    - Action: Focus on star performers' needs for retention.
 
-4. **Gender Disparity in Attrition:**
+ **Gender Disparity in Attrition:**
+
+![image](https://github.com/Yaszh/attrition_analysis/assets/71252244/8813b42e-be14-4878-bb11-b6f203f111f3)
+
    - Male attrition percentage surpasses others.
    - Consideration: Explore initiatives for gender workforce balance.
 
-5. **Departmental Attrition Patterns:**
+ **Departmental Attrition Patterns:**
+
+ ![image](https://github.com/Yaszh/attrition_analysis/assets/71252244/6c66a2b3-1ccd-44e6-85a3-c1cedbcbf583)
+
    - R&D and Sales experience higher attrition.
    - Intervention: Incentivize tasks to enhance employee engagement.
 
-6. **Distance from Workplace Impact:**
+ **Distance from Workplace Impact:**
+
+ ![image](https://github.com/Yaszh/attrition_analysis/assets/71252244/27f4b475-ec0c-4690-807b-4a15fa60c927)
+
    - Proximity correlates with higher attrition.
    - Investigation: Explore factors contributing to local attrition.
 
-7. **Additional Metrics:**
+ **Additional Metrics:**
    - Cards include Total Employees, Total Attrition, and Attrition Rate.
    - Year slicer provides granularity for tracking attrition trends over time.
 
-8. **Year-wise Attrition Rate:**
+ **Year-wise Attrition Rate:**
    - Attrition rate minimized in 2019 and 2020 compared to 2018.
    - Noted improvement: Continuous monitoring for organizational growth.
 
 ## Usage Instructions:
 
-1. Access the Attrition Analysis Dashboard using [dashboard link].
+![image](https://github.com/Yaszh/attrition_analysis/assets/71252244/4d296ca1-f1e5-4f92-a2e6-7a30ae7ce8a6)
+
+1. Access the Attrition Analysis Dashboard using pbix file.
 2. Explore various charts to gain insights into attrition patterns.
 3. Utilize filters, including Education, Age Group, Gender, Performance Rating, and more, for tailored analysis.
 4. Leverage the provided metrics and year-wise breakdown to make informed decisions for attrition management.
